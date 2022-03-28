@@ -23,3 +23,5 @@ Thats it.
 When you need it back.
 Copy that post from internet and paste back in the app, it will derive your secret from the text, and show it to you.
 
+## Demo
+![Demo](https://github.com/ppml38/PublicSecret/blob/main/PublicSecret/art/demo.png)
